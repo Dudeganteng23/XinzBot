@@ -1,5 +1,5 @@
 exports.menu = (prefix, i) => {
-    return `*Xinz Bot*
+    return `*Wizard Bot*
 Created by Xinz Team
 
 *INFO*
